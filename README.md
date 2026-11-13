@@ -14,7 +14,7 @@ Chemical Engineering, University of Florida
 2. Fitted a regression model
 3. Tested it on data the model had never seen
 
-**What I found.** The model predicts financial distress better than the Altman Z-score.
+**What I found.** A random forest beat logistic regression and the Altman Z-score on held-out 2017–2023 data (ROC-AUC 0.905 vs. 0.888 and 0.703). Reviewing the riskiest 5% of firms each year catches 57% of next-year distress cases. Early warning for currently healthy firms remains hard (ROC-AUC 0.83).
 
 ### Notebooks
 - [1. Building the Model](https://github.com/cwyatt-uf/cwyatt-uf.github.io/blob/main/notebooks/Distress_Prediction_Notebook.ipynb)
