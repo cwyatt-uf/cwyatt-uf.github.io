@@ -17,7 +17,7 @@ Chemical Engineering, University of Florida
 **What I found.** The model predicts financial distress better than the Altman Z-score.
 
 ### Notebooks
-- [2. Building the model](notebooks/Distress_Prediction_Notebook.ipynb)
+- [1. Building the Model](https://github.com/cwyatt-uf/cwyatt-uf.github.io/blob/main/notebooks/Distress_Prediction_Notebook.ipynb)
 
 ---
 
